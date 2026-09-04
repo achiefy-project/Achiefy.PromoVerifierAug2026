@@ -1,0 +1,313 @@
+{
+  "campaign": "aug2026",
+  "status": "approved",
+  "currentRound": 2,
+  "endAtUtc": "2026-09-02T22:26:37",
+  "closedAtUtc": "2026-09-02T22:27:42.6517995",
+  "snapshotSha256": "f6ca7327f2e846168b6efbdaf289bc0527fee042bf9a505315261a5faa15cc57",
+  "rounds": [
+    {
+      "round": 1,
+      "reason": "initial",
+      "committedUtc": "2026-09-02T22:27:42.6517995",
+      "announcedUtc": "2026-09-02T22:27:42.6517995",
+      "randomnessAfterUtc": "2026-09-02T22:57:37",
+      "blockHeight": 1,
+      "blockHash": "00000000000000000001b4f6a2c8d0e2f4a6b8c0d2e4f6a8b0c2d4e6f8a0b2c4",
+      "drawnAtUtc": "2026-09-02T22:28:42.7588123",
+      "places": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "excluded": [],
+      "winners": [
+        {
+          "place": 1,
+          "publicId": "38aa3a934d262e08ab382893df2430c8",
+          "prize": "$100",
+          "prizeKind": "Money"
+        },
+        {
+          "place": 2,
+          "publicId": "2aeb95c50403f1909d3d2d4aeab70f8e",
+          "prize": "$60",
+          "prizeKind": "Money"
+        },
+        {
+          "place": 3,
+          "publicId": "32c0c5bfad8dbb520bd9c04914f0eadb",
+          "prize": "$40",
+          "prizeKind": "Money"
+        },
+        {
+          "place": 4,
+          "publicId": "e3e122a021bbe3862cba1513274bbe97",
+          "prize": "Промобаланс Achiefy ($10)",
+          "prizeKind": "PromoBalance"
+        },
+        {
+          "place": 5,
+          "publicId": "f33d430a0346df635f5a702bd526039b",
+          "prize": "Промобаланс Achiefy ($10)",
+          "prizeKind": "PromoBalance"
+        },
+        {
+          "place": 6,
+          "publicId": "21c1977c2f4c726ded0682165349ed6b",
+          "prize": "Промобаланс Achiefy ($10)",
+          "prizeKind": "PromoBalance"
+        },
+        {
+          "place": 7,
+          "publicId": "dbafe3e7b9458ecef341fa3386776f39",
+          "prize": "Промобаланс Achiefy ($10)",
+          "prizeKind": "PromoBalance"
+        },
+        {
+          "place": 8,
+          "publicId": "76ba7c8f78f9af104cae7f4f1af7162d",
+          "prize": "Промобаланс Achiefy ($10)",
+          "prizeKind": "PromoBalance"
+        },
+        {
+          "place": 9,
+          "publicId": "7f8cb11b97687ba50c53a8e39bce1f4d",
+          "prize": "Промобаланс Achiefy ($10)",
+          "prizeKind": "PromoBalance"
+        },
+        {
+          "place": 10,
+          "publicId": "b3a12e1fccfe40f38fe74bcc798d97f8",
+          "prize": "Промобаланс Achiefy ($10)",
+          "prizeKind": "PromoBalance"
+        },
+        {
+          "place": 11,
+          "publicId": "6347ebb3a8eb5b8c206eab37299c98e7",
+          "prize": "Промобаланс Achiefy ($10)",
+          "prizeKind": "PromoBalance"
+        },
+        {
+          "place": 12,
+          "publicId": "87d6eb3f62be48edf3278df33b7f47d4",
+          "prize": "Промобаланс Achiefy ($10)",
+          "prizeKind": "PromoBalance"
+        },
+        {
+          "place": 13,
+          "publicId": "66f25678583ea0f60b30c2620f4970ef",
+          "prize": "Промобаланс Achiefy ($10)",
+          "prizeKind": "PromoBalance"
+        },
+        {
+          "place": 14,
+          "publicId": "ba2ce315902cebb987bd049c1fd96f43",
+          "prize": "Ключ Steam ($1.5)",
+          "prizeKind": "Item"
+        },
+        {
+          "place": 15,
+          "publicId": "c69cc929854361ba5aaaccf2e7cba227",
+          "prize": "Ключ Steam ($1.5)",
+          "prizeKind": "Item"
+        },
+        {
+          "place": 16,
+          "publicId": "b043186b7ae84a1d51ccdb40fe0c90e2",
+          "prize": "Ключ Steam ($1.5)",
+          "prizeKind": "Item"
+        },
+        {
+          "place": 17,
+          "publicId": "d66214528bb6503482879f747d0652e0",
+          "prize": "Ключ Steam ($1.5)",
+          "prizeKind": "Item"
+        },
+        {
+          "place": 18,
+          "publicId": "fb71aad4bba00b5fb59277c2343a1614",
+          "prize": "Ключ Steam ($1.5)",
+          "prizeKind": "Item"
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "reason": "исключён бот-аккаунт, место разыгрывается заново",
+      "committedUtc": "2026-09-02T22:40:42",
+      "announcedUtc": "2026-09-02T22:40:46",
+      "randomnessAfterUtc": "2026-09-02T23:10:42",
+      "blockHeight": 2,
+      "blockHash": "00000000000000000002c7e4a1b8f3d5c9e0a4b7d2f6a9c3e5b8d1f4a7c0e3b6",
+      "drawnAtUtc": "2026-09-02T23:18:42",
+      "places": [
+        2
+      ],
+      "excluded": [
+        {
+          "publicId": "2aeb95c50403f1909d3d2d4aeab70f8e",
+          "reason": "ферма мультиаккаунтов: 6 регистраций с одного устройства"
+        }
+      ],
+      "winners": [
+        {
+          "place": 2,
+          "publicId": "f6007b17ffe96d2c8af8bc72239a4bbf",
+          "prize": "$60",
+          "prizeKind": "Money"
+        }
+      ]
+    }
+  ],
+  "standing": [
+    {
+      "place": 1,
+      "publicId": "38aa3a934d262e08ab382893df2430c8",
+      "prize": "$100",
+      "prizeKind": "Money",
+      "round": 1
+    },
+    {
+      "place": 2,
+      "publicId": "f6007b17ffe96d2c8af8bc72239a4bbf",
+      "prize": "$60",
+      "prizeKind": "Money",
+      "round": 2
+    },
+    {
+      "place": 3,
+      "publicId": "32c0c5bfad8dbb520bd9c04914f0eadb",
+      "prize": "$40",
+      "prizeKind": "Money",
+      "round": 1
+    },
+    {
+      "place": 4,
+      "publicId": "e3e122a021bbe3862cba1513274bbe97",
+      "prize": "Промобаланс Achiefy ($10)",
+      "prizeKind": "PromoBalance",
+      "round": 1
+    },
+    {
+      "place": 5,
+      "publicId": "f33d430a0346df635f5a702bd526039b",
+      "prize": "Промобаланс Achiefy ($10)",
+      "prizeKind": "PromoBalance",
+      "round": 1
+    },
+    {
+      "place": 6,
+      "publicId": "21c1977c2f4c726ded0682165349ed6b",
+      "prize": "Промобаланс Achiefy ($10)",
+      "prizeKind": "PromoBalance",
+      "round": 1
+    },
+    {
+      "place": 7,
+      "publicId": "dbafe3e7b9458ecef341fa3386776f39",
+      "prize": "Промобаланс Achiefy ($10)",
+      "prizeKind": "PromoBalance",
+      "round": 1
+    },
+    {
+      "place": 8,
+      "publicId": "76ba7c8f78f9af104cae7f4f1af7162d",
+      "prize": "Промобаланс Achiefy ($10)",
+      "prizeKind": "PromoBalance",
+      "round": 1
+    },
+    {
+      "place": 9,
+      "publicId": "7f8cb11b97687ba50c53a8e39bce1f4d",
+      "prize": "Промобаланс Achiefy ($10)",
+      "prizeKind": "PromoBalance",
+      "round": 1
+    },
+    {
+      "place": 10,
+      "publicId": "b3a12e1fccfe40f38fe74bcc798d97f8",
+      "prize": "Промобаланс Achiefy ($10)",
+      "prizeKind": "PromoBalance",
+      "round": 1
+    },
+    {
+      "place": 11,
+      "publicId": "6347ebb3a8eb5b8c206eab37299c98e7",
+      "prize": "Промобаланс Achiefy ($10)",
+      "prizeKind": "PromoBalance",
+      "round": 1
+    },
+    {
+      "place": 12,
+      "publicId": "87d6eb3f62be48edf3278df33b7f47d4",
+      "prize": "Промобаланс Achiefy ($10)",
+      "prizeKind": "PromoBalance",
+      "round": 1
+    },
+    {
+      "place": 13,
+      "publicId": "66f25678583ea0f60b30c2620f4970ef",
+      "prize": "Промобаланс Achiefy ($10)",
+      "prizeKind": "PromoBalance",
+      "round": 1
+    },
+    {
+      "place": 14,
+      "publicId": "ba2ce315902cebb987bd049c1fd96f43",
+      "prize": "Ключ Steam ($1.5)",
+      "prizeKind": "Item",
+      "round": 1
+    },
+    {
+      "place": 15,
+      "publicId": "c69cc929854361ba5aaaccf2e7cba227",
+      "prize": "Ключ Steam ($1.5)",
+      "prizeKind": "Item",
+      "round": 1
+    },
+    {
+      "place": 16,
+      "publicId": "b043186b7ae84a1d51ccdb40fe0c90e2",
+      "prize": "Ключ Steam ($1.5)",
+      "prizeKind": "Item",
+      "round": 1
+    },
+    {
+      "place": 17,
+      "publicId": "d66214528bb6503482879f747d0652e0",
+      "prize": "Ключ Steam ($1.5)",
+      "prizeKind": "Item",
+      "round": 1
+    },
+    {
+      "place": 18,
+      "publicId": "fb71aad4bba00b5fb59277c2343a1614",
+      "prize": "Ключ Steam ($1.5)",
+      "prizeKind": "Item",
+      "round": 1
+    }
+  ],
+  "disqualified": [
+    {
+      "publicId": "2aeb95c50403f1909d3d2d4aeab70f8e",
+      "reason": "ферма мультиаккаунтов: 6 регистраций с одного устройства",
+      "round": 2
+    }
+  ]
+}

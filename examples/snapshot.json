@@ -1,0 +1,210 @@
+{
+  "campaign": "aug2026",
+  "endAtUtc": "2026-09-02T22:26:37",
+  "randomnessAfterUtc": "2026-09-02T22:57:37",
+  "closedAtUtc": "2026-09-02T22:27:42.6517995Z",
+  "totalParticipants": 25,
+  "totalTickets": 151,
+  "participants": [
+    {
+      "publicId": "21c1977c2f4c726ded0682165349ed6b",
+      "registered": false,
+      "subscribed": true,
+      "usefulAction": false,
+      "surveyCompleted": true,
+      "tickets": 4
+    },
+    {
+      "publicId": "2aeb95c50403f1909d3d2d4aeab70f8e",
+      "registered": true,
+      "subscribed": true,
+      "usefulAction": true,
+      "surveyCompleted": true,
+      "tickets": 10
+    },
+    {
+      "publicId": "3162054177884cb5833199e5ecc88cbc",
+      "registered": true,
+      "subscribed": true,
+      "usefulAction": false,
+      "surveyCompleted": false,
+      "tickets": 2
+    },
+    {
+      "publicId": "32c0c5bfad8dbb520bd9c04914f0eadb",
+      "registered": false,
+      "subscribed": true,
+      "usefulAction": false,
+      "surveyCompleted": true,
+      "tickets": 4
+    },
+    {
+      "publicId": "35e04ae19a804882fb0684600a5b6e70",
+      "registered": true,
+      "subscribed": true,
+      "usefulAction": false,
+      "surveyCompleted": false,
+      "tickets": 2
+    },
+    {
+      "publicId": "37e803d98c6490d840e2bb29e1b79544",
+      "registered": true,
+      "subscribed": true,
+      "usefulAction": false,
+      "surveyCompleted": false,
+      "tickets": 2
+    },
+    {
+      "publicId": "38aa3a934d262e08ab382893df2430c8",
+      "registered": true,
+      "subscribed": true,
+      "usefulAction": true,
+      "surveyCompleted": true,
+      "tickets": 10
+    },
+    {
+      "publicId": "5e8ff44f34896d99358d9314a1b5eaea",
+      "registered": false,
+      "subscribed": false,
+      "usefulAction": false,
+      "surveyCompleted": false,
+      "tickets": 0
+    },
+    {
+      "publicId": "6347ebb3a8eb5b8c206eab37299c98e7",
+      "registered": true,
+      "subscribed": true,
+      "usefulAction": true,
+      "surveyCompleted": false,
+      "tickets": 7
+    },
+    {
+      "publicId": "66f25678583ea0f60b30c2620f4970ef",
+      "registered": true,
+      "subscribed": true,
+      "usefulAction": true,
+      "surveyCompleted": false,
+      "tickets": 7
+    },
+    {
+      "publicId": "76ba7c8f78f9af104cae7f4f1af7162d",
+      "registered": true,
+      "subscribed": true,
+      "usefulAction": true,
+      "surveyCompleted": false,
+      "tickets": 7
+    },
+    {
+      "publicId": "7f8cb11b97687ba50c53a8e39bce1f4d",
+      "registered": true,
+      "subscribed": true,
+      "usefulAction": true,
+      "surveyCompleted": true,
+      "tickets": 10
+    },
+    {
+      "publicId": "87d6eb3f62be48edf3278df33b7f47d4",
+      "registered": true,
+      "subscribed": false,
+      "usefulAction": true,
+      "surveyCompleted": true,
+      "tickets": 9
+    },
+    {
+      "publicId": "88143bbd53550a3a1a747e1bf08d43e3",
+      "registered": true,
+      "subscribed": true,
+      "usefulAction": true,
+      "surveyCompleted": false,
+      "tickets": 7
+    },
+    {
+      "publicId": "b043186b7ae84a1d51ccdb40fe0c90e2",
+      "registered": true,
+      "subscribed": true,
+      "usefulAction": true,
+      "surveyCompleted": true,
+      "tickets": 10
+    },
+    {
+      "publicId": "b3a12e1fccfe40f38fe74bcc798d97f8",
+      "registered": true,
+      "subscribed": false,
+      "usefulAction": true,
+      "surveyCompleted": false,
+      "tickets": 6
+    },
+    {
+      "publicId": "ba2ce315902cebb987bd049c1fd96f43",
+      "registered": true,
+      "subscribed": true,
+      "usefulAction": true,
+      "surveyCompleted": false,
+      "tickets": 7
+    },
+    {
+      "publicId": "c69cc929854361ba5aaaccf2e7cba227",
+      "registered": true,
+      "subscribed": true,
+      "usefulAction": false,
+      "surveyCompleted": true,
+      "tickets": 5
+    },
+    {
+      "publicId": "d66214528bb6503482879f747d0652e0",
+      "registered": true,
+      "subscribed": true,
+      "usefulAction": false,
+      "surveyCompleted": true,
+      "tickets": 5
+    },
+    {
+      "publicId": "dbafe3e7b9458ecef341fa3386776f39",
+      "registered": true,
+      "subscribed": true,
+      "usefulAction": true,
+      "surveyCompleted": false,
+      "tickets": 7
+    },
+    {
+      "publicId": "e32c6b1be5ee6baebe42da47ee3f92f4",
+      "registered": true,
+      "subscribed": true,
+      "usefulAction": false,
+      "surveyCompleted": false,
+      "tickets": 2
+    },
+    {
+      "publicId": "e3e122a021bbe3862cba1513274bbe97",
+      "registered": true,
+      "subscribed": false,
+      "usefulAction": true,
+      "surveyCompleted": true,
+      "tickets": 9
+    },
+    {
+      "publicId": "f33d430a0346df635f5a702bd526039b",
+      "registered": true,
+      "subscribed": true,
+      "usefulAction": true,
+      "surveyCompleted": true,
+      "tickets": 10
+    },
+    {
+      "publicId": "f6007b17ffe96d2c8af8bc72239a4bbf",
+      "registered": true,
+      "subscribed": true,
+      "usefulAction": false,
+      "surveyCompleted": true,
+      "tickets": 5
+    },
+    {
+      "publicId": "fb71aad4bba00b5fb59277c2343a1614",
+      "registered": true,
+      "subscribed": false,
+      "usefulAction": false,
+      "surveyCompleted": true,
+      "tickets": 4
+    }
+  ]
+}
